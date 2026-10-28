@@ -1,0 +1,7 @@
+/build/
+/build-sanitize/
+/build-review/
+/evidence/
+__pycache__/
+catchat-history-*.txt
+*.typescript
